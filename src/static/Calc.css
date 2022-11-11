@@ -1,0 +1,19 @@
+.Screen{
+ text-align: end;
+ position: absolute;
+ top: 23px;
+ overflow: hidden;
+ background-color: grey;
+ color: black;
+}
+.mirror{
+ background-color: green;
+ height: 10px;
+ width: 50px;
+ border: 3px solid black;
+ position: relative;
+ right: -113px;
+ top: 5px;
+ border-radius: 5px;
+}
+
